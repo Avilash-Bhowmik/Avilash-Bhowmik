@@ -1,0 +1,112 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color:#EEE;
+    background-image:url(https://i.postimg.cc/GpLYwCXk/IMG-20200403-WA0000.jpg);
+    background-position:left bottom;
+    background-attachment:fixed;
+}
+.container{
+    max-width:900px;
+    background-color:#E4F9F5;
+    margin:0 auto;
+    padding:50px;
+   
+}
+
+.img{
+    
+    border:3px solid brown;
+    border-radius:50%;
+    float:left;
+
+}
+
+.header-bio{
+    float:left;
+  
+}
+h1,h2,h3,h4,h5,h6{
+color:#11999e
+}
+.header-contact{
+    float:right;
+    padding:10px;
+    max-width:600px;
+}
+.header-contact a{
+    text-decoration:none;
+    font-weight:bold;
+    color:teal;
+    cursor:crosshair;
+}
+.header-contact a:hover{
+    text-decoration:underline;
+    color:tomato;
+}
+.div-clear{
+    clear:both;
+}
+hr{
+    border:3px solid rgb(89, 0, 255);
+    width:100%;
+    margin:20px auto;
+}
+.m26{
+
+}
+.left-div{
+    width:33.33%;
+    float:left;
+
+}
+.right-div{
+    width:33.33%%;
+    float:left;
+   
+}
+.common-hr{
+    border: solid black;
+    border-bottom:none;
+    width:100%;
+    margin:20px auto;
+}
+#common-hr{
+    border: solid red;
+    border-bottom:none;
+    width:100%;
+    margin:20px auto;
+}
+.righr-corner{
+    width:33.33%;
+    float:right;
+}
+/* 
+............................
+*/
+
+.footer-style{
+
+    background-color: black;
+    text-align:center;
+    padding:50px;
+    margin:0 auto;
+}
+.footer-style a{
+    color:yellow;
+    text-decoration:none;
+    cursor:crosshair;
+}
+#hgf{
+    border: dotted gray;
+    border-bottom:none;
+}
+#id{
+    border: solid silver;
+    border-bottom:none;
+    width:100%;
+    margin:20px auto;
+
+}
